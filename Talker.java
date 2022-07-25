@@ -1,0 +1,3 @@
+interface Talker {
+  void talk();
+}
